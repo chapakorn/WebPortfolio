@@ -226,7 +226,7 @@ export default function Home() {
           {/* LEFT: รูป */}
           <div className="relative">
             <img
-              src="/Picture/project3.png"
+              src="/Picture/Project3.png"
               className="rounded-xl shadow-lg"
             />
           </div>

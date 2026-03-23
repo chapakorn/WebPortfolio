@@ -66,12 +66,12 @@ export default function Home() {
             
               <ul className="flex gap-4 mt-4 text-4xl">
                 <li>
-                  <a href="#" className="hover:text-gray-500 transition">
+                  <a href="https://github.com/chapakorn" className="hover:text-gray-500 transition">
                     <FaGithub />
                   </a>
                 </li>
                 <li>
-                  <a href="#" className="hover:text-blue-600 transition">
+                  <a href="https://www.linkedin.com/in/chapakorn-srisakwichai-074a793b7" className="hover:text-blue-600 transition">
                     <FaLinkedinIn />
                   </a>
                 </li>

@@ -20,7 +20,6 @@ export default function Home() {
       <section id="skills" className="scroll-mt-32 -mx-8">
         <Skills/>
       </section>
-
       
       <section id="projects" className="mt-20 scroll-mt-32 max-w-7xl mx-auto px-4">
         <Project/>
@@ -29,6 +28,7 @@ export default function Home() {
       <section id="contact">
         <ContactForm />
       </section>
+
     </main>
   )
 }
